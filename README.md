@@ -1,4 +1,4 @@
-irtheroy
+irtheory
 
 PRACTICAL – 1
 Aim: Write a program to demonstrate Boolean Retrieval Model using Bitwise
